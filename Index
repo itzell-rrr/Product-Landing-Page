@@ -1,0 +1,11 @@
+<link rel="stylesheet" href="styles.css">
+<header id="header">
+   <img id="header-img" src="https://www.phoenixcollege.edu/sites/default/files/styles/featured_small_445_312/public/images/pb-image-cta/1125-lp-saturday-hannelly-enrollment-hours-map-r1-2.jpg?itok=981JMB3Z">
+ <nav id="nav-bar">
+   <a class="nav-link" href="#form"></a>
+    <a class="nav-link" href="#submit"></a>
+     <a class="nav-link" href="#email"></a>
+     <iframe src="" id="video"></iframe>
+     <form action="https://www.freecodecamp.com/email-submit" id="form"><input name="email" type="email" placeholder="itzell"id="email"><input type="submit" id="submit"></input></form>
+  </header>
+ 
